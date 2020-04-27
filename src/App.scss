@@ -1,0 +1,15 @@
+// 스크롤바
+/* width */
+::-webkit-scrollbar {width: 3px;}
+/* Track */
+::-webkit-scrollbar-track {background: #fff;}
+/* Handle */
+::-webkit-scrollbar-thumb {background: #3ee7ac; }
+
+.App {
+
+  & > .contents > section {
+    position: relative;
+    height: 100vh;
+  }
+}
