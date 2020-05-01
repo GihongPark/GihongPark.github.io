@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.77370932.chunk.css",
-    "main.js": "/static/js/main.3acf9422.chunk.js",
-    "main.js.map": "/static/js/main.3acf9422.chunk.js.map",
+    "main.css": "/static/css/main.0c6d3e2a.chunk.css",
+    "main.js": "/static/js/main.3392f170.chunk.js",
+    "main.js.map": "/static/js/main.3392f170.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.17a0efde.js",
     "runtime-main.js.map": "/static/js/runtime-main.17a0efde.js.map",
     "static/css/2.ad458773.chunk.css": "/static/css/2.ad458773.chunk.css",
-    "static/js/2.4428b379.chunk.js": "/static/js/2.4428b379.chunk.js",
-    "static/js/2.4428b379.chunk.js.map": "/static/js/2.4428b379.chunk.js.map",
+    "static/js/2.9938ad67.chunk.js": "/static/js/2.9938ad67.chunk.js",
+    "static/js/2.9938ad67.chunk.js.map": "/static/js/2.9938ad67.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9dc0e56a68379ef5a1ab393aea0dfa4e.js": "/precache-manifest.9dc0e56a68379ef5a1ab393aea0dfa4e.js",
+    "precache-manifest.e933acf531671fdab1be7104ce979f3f.js": "/precache-manifest.e933acf531671fdab1be7104ce979f3f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ad458773.chunk.css.map": "/static/css/2.ad458773.chunk.css.map",
-    "static/css/main.77370932.chunk.css.map": "/static/css/main.77370932.chunk.css.map",
-    "static/js/2.4428b379.chunk.js.LICENSE.txt": "/static/js/2.4428b379.chunk.js.LICENSE.txt",
-    "static/media/React_logo.png": "/static/media/React_logo.70f87bba.png",
-    "static/media/SASS_logo.png": "/static/media/SASS_logo.084f0cf8.png",
-    "static/media/TS_logo.png": "/static/media/TS_logo.9a0683e9.png",
+    "static/css/main.0c6d3e2a.chunk.css.map": "/static/css/main.0c6d3e2a.chunk.css.map",
+    "static/js/2.9938ad67.chunk.js.LICENSE.txt": "/static/js/2.9938ad67.chunk.js.LICENSE.txt",
+    "static/media/CSS3_logo.png": "/static/media/CSS3_logo.c672773b.png",
+    "static/media/React_logo.png": "/static/media/React_logo.c158acb6.png",
+    "static/media/SASS_logo.png": "/static/media/SASS_logo.6b8eed30.png",
     "static/media/X-labeller_fin.mp4": "/static/media/X-labeller_fin.84d62908.mp4",
     "static/media/etri1.png": "/static/media/etri1.fb3a2c5d.png",
     "static/media/etri2.png": "/static/media/etri2.8620e147.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.17a0efde.js",
     "static/css/2.ad458773.chunk.css",
-    "static/js/2.4428b379.chunk.js",
-    "static/css/main.77370932.chunk.css",
-    "static/js/main.3acf9422.chunk.js"
+    "static/js/2.9938ad67.chunk.js",
+    "static/css/main.0c6d3e2a.chunk.css",
+    "static/js/main.3392f170.chunk.js"
   ]
 }
