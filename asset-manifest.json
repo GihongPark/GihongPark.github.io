@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.86d82118.chunk.css",
-    "main.js": "/static/js/main.b874e436.chunk.js",
-    "main.js.map": "/static/js/main.b874e436.chunk.js.map",
+    "main.css": "/static/css/main.6d83d8d4.chunk.css",
+    "main.js": "/static/js/main.465f32d3.chunk.js",
+    "main.js.map": "/static/js/main.465f32d3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.17a0efde.js",
     "runtime-main.js.map": "/static/js/runtime-main.17a0efde.js.map",
     "static/css/2.ad458773.chunk.css": "/static/css/2.ad458773.chunk.css",
-    "static/js/2.37ea4f4a.chunk.js": "/static/js/2.37ea4f4a.chunk.js",
-    "static/js/2.37ea4f4a.chunk.js.map": "/static/js/2.37ea4f4a.chunk.js.map",
+    "static/js/2.40c3bd24.chunk.js": "/static/js/2.40c3bd24.chunk.js",
+    "static/js/2.40c3bd24.chunk.js.map": "/static/js/2.40c3bd24.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a080030c53400c6128125c18454122f7.js": "/precache-manifest.a080030c53400c6128125c18454122f7.js",
+    "precache-manifest.cbafa8fc60f6c213dc765b30a6d0ef6a.js": "/precache-manifest.cbafa8fc60f6c213dc765b30a6d0ef6a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ad458773.chunk.css.map": "/static/css/2.ad458773.chunk.css.map",
-    "static/css/main.86d82118.chunk.css.map": "/static/css/main.86d82118.chunk.css.map",
-    "static/js/2.37ea4f4a.chunk.js.LICENSE.txt": "/static/js/2.37ea4f4a.chunk.js.LICENSE.txt",
+    "static/css/main.6d83d8d4.chunk.css.map": "/static/css/main.6d83d8d4.chunk.css.map",
+    "static/js/2.40c3bd24.chunk.js.LICENSE.txt": "/static/js/2.40c3bd24.chunk.js.LICENSE.txt",
     "static/media/CSS3_logo.png": "/static/media/CSS3_logo.c672773b.png",
     "static/media/React_logo.png": "/static/media/React_logo.c158acb6.png",
     "static/media/SASS_logo.png": "/static/media/SASS_logo.6b8eed30.png",
@@ -21,6 +21,7 @@
     "static/media/dot_bg.png": "/static/media/dot_bg.693d8e5a.png",
     "static/media/etri1.png": "/static/media/etri1.fb3a2c5d.png",
     "static/media/etri2.png": "/static/media/etri2.8620e147.png",
+    "static/media/exercisemanager.png": "/static/media/exercisemanager.1b27625a.png",
     "static/media/portfolio.pdf": "/static/media/portfolio.180d90a1.pdf",
     "static/media/responsive.png": "/static/media/responsive.cb3083e8.png",
     "static/media/xlabeller.png": "/static/media/xlabeller.20afe753.png"
@@ -28,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.17a0efde.js",
     "static/css/2.ad458773.chunk.css",
-    "static/js/2.37ea4f4a.chunk.js",
-    "static/css/main.86d82118.chunk.css",
-    "static/js/main.b874e436.chunk.js"
+    "static/js/2.40c3bd24.chunk.js",
+    "static/css/main.6d83d8d4.chunk.css",
+    "static/js/main.465f32d3.chunk.js"
   ]
 }
